@@ -73,14 +73,14 @@ button:focus-visible {
 }
 
 .big-numbers {
-  font-size: 100px;
+  font-size: 4rem;
   width: max-content;
 }
 
 .median-numbers {
   margin-top: 50px;
   margin-left: 20px;
-  font-size: 30px;
+  font-size: 2rem;
 }
 
 @media (prefers-color-scheme: light) {
